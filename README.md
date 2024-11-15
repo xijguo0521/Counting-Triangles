@@ -1,0 +1,1 @@
+Final project for Data Mining course in which I implemented and evaluated two data stream algorithms for triangle counting, TRIE`ST-BASE and TRIE`ST-IMPR. The implementation was based on the paper titled "TRIÈST: Counting Local and Global Triangles in Fully Dynamic Streams with Fixed Memory Size"
